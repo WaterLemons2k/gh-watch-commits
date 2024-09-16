@@ -2,7 +2,7 @@ module github.com/WaterLemons2k/gh-watch-commits
 
 go 1.20
 
-require github.com/cli/go-gh/v2 v2.9.0
+require github.com/cli/go-gh/v2 v2.10.0
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
