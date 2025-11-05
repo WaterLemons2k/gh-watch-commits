@@ -1,8 +1,8 @@
 module github.com/WaterLemons2k/gh-watch-commits
 
-go 1.23.0
+go 1.25.0
 
-require github.com/cli/go-gh/v2 v2.12.2
+require github.com/cli/go-gh/v2 v2.13.0
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
